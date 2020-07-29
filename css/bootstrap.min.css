@@ -84,4 +84,4 @@ select.form-control:focus::-ms-value{color:#55595c;background-color:#fff}
 /* Clear floats after image containers */
 .row::after{content:""; clear:both; display:table;}
 
-.bottom-five{margin-bottom:7cm;}
+.bottom-five{margin-bottom:5cm;}
