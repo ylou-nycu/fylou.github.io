@@ -67,20 +67,20 @@ blockquote
   background: #FFF;}
 
 ul
-{ margin: 2px 0px 18px 16px;
+{ margin: 2px 0px 16px 16px;
   padding: 0px;}
 
 ul li
 { list-style-type: disc;
-  margin: 0px 0px 6px 0px; 
+  margin: 0px 0px 6px 16px; 
   padding: 0px;}
 
 ol
-{ margin: 8px 0px 0px 24px;
+{ margin: 8px 0px 0px 16px;
   padding: 0px;}
 
 ol li
-{ margin: 0px 0px 11px 0px; 
+{ margin: 0px 0px 11px 16px; 
   padding: 0px;}
 
 posright
